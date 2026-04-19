@@ -1,0 +1,1 @@
+Newton's three laws: 1) Object at rest stays at rest. 2) F=ma. 3) Every action has equal and opposite reaction. Gravitational formula: F = G*m1*m2/r^2. Kinetic energy: KE = 0.5*m*v^2.
